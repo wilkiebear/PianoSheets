@@ -1,8 +1,35 @@
 ###### All credits belong to their respective artists. I'll be updating this repo regularly as I learn/acquire new sheet music, enjoy :)
  **Table of Contents**
+* [Kyle Landry](#kyle-landry)
+  - [Anime](#anime)
 * [Jazz](#jazz)
   - [Jonny May](#jonny-may)
   - [Rupert Austin](#rpa)
+
+### <a name="kyle-landry"></a> Kyle Landry
+ Sheet | YouTube/Sample
+ --- | --- 
+ [Game Of Thrones Medley](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Game%20Of%20Thrones.pdf) | [Youtube](https://www.youtube.com/watch?v=NIVfy1V-_n0)
+ [River Flows In You](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/River%20flows%20in%20you.pdf) | [Youtube](https://www.youtube.com/watch?v=qFwWE_flqcI)
+ [SKY - Forever](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Sky%20-%20Forever.pdf) | [Youtube](https://www.youtube.com/watch?v=CsUu0qknxW8)
+ <a name="anime"></a> ***Anime*** |
+ [Pokemon - Gotta Catch 'Em All](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Anime/Pokemon%20-%20Gotta%20catch%20'em%20all.pdf) | [Youtube](https://www.youtube.com/watch?v=vZ3gPXVMWRY)
+ [Fairy Tail - Main Theme](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Anime/Fairy%20Tail%20Theme.pdf) | [Youtube](https://www.youtube.com/watch?v=dIqpUqwlWN4)
+ [One Piece - Eyecatcher](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Anime/One%20Piece/One%20Piece%20-%20Eyecatcher.pdf) | [Youtube](https://www.youtube.com/watch?v=HV8UbEbA2hk)
+ [One Piece - Gold and Oden](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Anime/One%20Piece/One%20Piece%20-%20Gold%20and%20Oden.pdf) | [Youtube](https://www.youtube.com/watch?v=HV8UbEbA2hk)
+ [Naruto - Medley Special (Wind - Hokage Funeral - Sadness and Sorrow)](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Anime/Naruto/Medley%20Special.pdf) | [Youtube](https://www.youtube.com/watch?v=ntkRQCh8c_Y)
+ [Naruto - Alone](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Anime/Naruto/Alone.pdf) | [Youtube](https://www.youtube.com/watch?v=irEIwQBGKpg)
+ [Naruto - Hinata vs Neji](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Anime/Naruto/Hinata%20VS%20Neji.pdf) | [Youtube](https://www.youtube.com/watch?v=X0qI66ix-QY)
+ [Sword Art Online - Main Theme](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Anime/Sword%20Art%20Online/SAO%20Main%20Theme.pdf) | [Youtube](https://www.youtube.com/watch?v=XzGl9B_cKOw)
+ [Sword Art Online - Crossing Field](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Anime/Sword%20Art%20Online/Sword%20Art%20Online%20OP%20-%20Crossing%20Field.pdf) | [Youtube](https://www.youtube.com/watch?v=kGeQTdl7P1Q)
+ [Kimi ni Todoke - Opening Theme](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Anime/Kimi%20ni%20Todoke/Opening%20Theme.pdf) | [Youtube](https://www.youtube.com/watch?v=QQUiBgURdDM)
+ [Kimi ni Todoke - Ending Theme](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Anime/Kimi%20ni%20Todoke/Kataomoi.pdf) | [Youtube](https://www.youtube.com/watch?v=Vurr59c29Wo&t=2s)
+ [Clannad - Dango Daikazoku](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Anime/Clannad%20-%20Dango%20Daikazoku.pdf) | [Youtube](https://www.youtube.com/watch?v=SlgNA49E7lI)
+ [Elfen Lied - Lilium](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Anime/Elfen%20Lied%20-%20Lilium.pdf) | [Youtube](https://www.youtube.com/watch?v=sjXxCr_E1So)
+ [Fate/Stay Night - Anata Ga Ita Mori](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Anime/Fate_Stay%20Night%20-%20Anata%20Ga%20Ita%20Mori.pdf) | [Youtube](https://www.youtube.com/watch?v=YzrrnLN3tF8)
+ [Inuyasha - Every Heart](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Anime/Inu%20Yasha%20-%20Every%20Heart.pdf) | [Youtube](https://www.youtube.com/watch?v=IwTbRTIK2mQ)
+ [Nodame Cantabile - Allegro Cantabile](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Anime/Nodame%20Cantabile%20OP%20-%20Allegro%20Cantabile.pdf) | [Youtube](https://www.youtube.com/watch?v=v5v3v4bWXGE)
+ [Wolf's Rain](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Anime/Wolfs%20Rain%20-%20Gravity.pdf) | [Youtube](https://www.youtube.com/watch?v=6RLgoQ0Pk7o)
 
 ### <a name="jazz"></a> Jazz
  Sheet | YouTube/Sample
