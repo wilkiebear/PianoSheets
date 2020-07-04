@@ -1,10 +1,10 @@
 ###### All credits belong to their respective artists. I'll be updating this repo regularly as I learn/acquire new sheet music, enjoy :)
  **Table of Contents**
- - [Scott Bradlee](#scott-bradlee)
- - [Jonny May](#jonny-may)
- - [Kyle Landry](#kyle-landry)
- - [Heading](#heading-1)
- - [Heading](#heading-2)
+- [Heading](#heading)
+  * [Sub-heading](#sub-heading)
+    + [Sub-sub-heading](#sub-sub-heading)
+- [Heading](#heading-1)
+  * [Sub-heading](#sub-heading-1)
 
 ## <a name="scott-bradlee"></a> Scott Bradlee
  Sheet | YouTube/Sample
@@ -22,5 +22,5 @@
  --- | --- 
  ***Anime*** |
  [***Kimi no Todoke*** - Kataomomoi (Ending Theme)](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Anime/Kimi%20ni%20Todoke/Kataomoi.pdf) | [Youtube](https://www.youtube.com/watch?v=Vurr59c29Wo)
- [***Kimi no Todoke*** - Opening Theme](https://www.youtube.com/watch?v=QQUiBgURdDM) | [Youtube](https://www.youtube.com/watch?v=QQUiBgURdDM)
+ [***Kimi no Todoke*** - Opening Theme](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Anime/Kimi%20ni%20Todoke/Opening%20Theme.pdf) | [Youtube](https://www.youtube.com/watch?v=QQUiBgURdDM)
  ---
