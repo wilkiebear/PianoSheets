@@ -5,6 +5,7 @@
   - [Christmas](#christmas)
   - [Disney](#disney)
   - [Games](#games)
+  - [Movies](#movies)
 * [Jazz](#jazz)
   - [Jonny May](#jonny-may)
   - [Rupert Austin](#rpa)
@@ -93,6 +94,25 @@
  [The Legend of Zelda - Gerudo Valley (2013)](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Games/Zelda/Gerudo%20Valley%20(2013).pdf) | [Youtube](https://www.youtube.com/watch?v=lYLrPbngWHw)
  [The Legend of Zelda - Overworld Theme](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Games/Zelda/Overworld%20Theme.pdf) | [Youtube](https://www.youtube.com/watch?v=QwR_xbzVOvM)
  [The Legend of Zelda - Song Of Healing](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Games/Zelda/Song%20of%20Healing.pdf) | [Youtube](https://www.youtube.com/watch?v=LUq49NecOeE)
+ <a name="movies"></a> ***Movies*** |
+ [Harry Potter - Medley](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Movies/Harry%20Potter/Hedwig's%20Theme.pdf) | [Youtube](https://www.youtube.com/watch?v=NzAXLX-cVsU)
+ [La La Land - Mia & Sebastien's Theme](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Movies/La%20La%20Land%20-%20Mia%20%26%20Sebastians%20Theme%20(WIP)%20(Kyle%20Landrys%20Arr.).pdf) | [Youtube](https://www.youtube.com/watch?v=AX1S9sewz9I)
+ [Joe Hisaishi - Howl's Moving Castle Theme](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Movies/Joe%20Hisaishi/Howls%20Moving%20Castle%20Theme.pdf) | [Youtube](https://www.youtube.com/watch?v=puAuDt6aNsw)
+ [Joe Hisaishi - Medley](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Movies/Joe%20Hisaishi/KL_Joe_Hisaishi_Medley_PAV.pdf) | [Youtube](https://www.youtube.com/watch?v=1LGaLDpBafQ)
+ [Joe Hisaishi - Spirited Away (Inochi no Namae)](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Movies/Joe%20Hisaishi/Inochi%20no%20Namae.pdf) | [Youtube](https://www.youtube.com/watch?v=-V68TPR7-jY)
+ [Joe Hisaishi - Spirited Away (Waltz of Chihiro)](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Movies/Joe%20Hisaishi/Waltz%20of%20Chihiro.pdf) | [Youtube](https://www.youtube.com/watch?v=ZgCWSQORT5k)
+ [Joe Hisaishi - Castle In The Sky Theme](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Movies/Joe%20Hisaishi/KL_Ghibli_Castle_in_the_Sky.pdf) | [Youtube](https://www.youtube.com/watch?v=SqvKmH4TyQM)
+ [Amélie - Comptine d'un autre été](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Movies/Amelie%20-%20Comptine%20d'un%20autre%20%C3%A9t%C3%A9.pdf) | [Youtube](https://www.youtube.com/watch?v=flDDc3Ru38g)
+ [Anastasia - Once Upon A December](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Movies/Anastasia%20-%20Once%20Upon%20A%20December.pdf) | [Youtube](https://www.youtube.com/watch?v=HpXHdegMTtw)
+ [Braveheart Theme](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Movies/Braveheart%20Theme.pdf) | [Youtube](https://www.youtube.com/watch?v=bo7Gh0n269E)
+ [Les Misérables - I Dreamed A Dream](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Movies/Les%20Miserables%20-%20I%20Dreamed%20a%20Dream.pdf) | [Youtube](https://www.youtube.com/watch?v=0Wlrv-Pc8ko)
+ [Secret - Time Travel Theme](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Movies/Time%20Travel%20Theme.pdf) | [Youtube](https://www.youtube.com/watch?v=jg6oJjcGYVE)
+ [Transformers - Arrival to Earth](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Movies/Transformers%20-%20Arrival%20to%20Earth.pdf) | [Youtube](https://www.youtube.com/watch?v=LjyviatSeCY)
+ [Hans Zimmer - Pirates of The Caribbean Medley](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Movies/Hans%20Zimmer/Pirates%20of%20the%20Caribbean%20Medley.pdf) | [Youtube](https://www.youtube.com/watch?v=pidW3I9GQa8)
+ [Hans Zimmer - Inception (Time)](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Movies/Hans%20Zimmer/Inception%20-%20Time.pdf) | [Youtube](https://www.youtube.com/watch?v=JOtDS0vRwxg)
+ [Hans Zimmer - Interstellar (First Step)](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Movies/Hans%20Zimmer/Interstellar%20-%20FirstStep.pdf) | [Youtube](https://www.youtube.com/watch?v=h9vj-p1yGLw)
+ [Lord Of The Rings Medley](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Movies/Howard%20Shore/Lord%20of%20the%20Rings%20Medley.pdf) | [Youtube](https://www.youtube.com/watch?v=mDY8jLYnL0I)
+ [The Hobbit - Misty Mountains](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Movies/Howard%20Shore/Misty%20Mountains.pdf) | [Youtube](https://www.youtube.com/watch?v=Tn1Amt1A52Y)
 
 ### <a name="jazz"></a> Jazz
  Sheet | YouTube/Sample
