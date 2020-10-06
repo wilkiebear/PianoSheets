@@ -113,6 +113,25 @@
  [Hans Zimmer - Interstellar (First Step)](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Movies/Hans%20Zimmer/Interstellar%20-%20FirstStep.pdf) | [Youtube](https://www.youtube.com/watch?v=h9vj-p1yGLw)
  [Lord Of The Rings Medley](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Movies/Howard%20Shore/Lord%20of%20the%20Rings%20Medley.pdf) | [Youtube](https://www.youtube.com/watch?v=mDY8jLYnL0I)
  [The Hobbit - Misty Mountains](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Movies/Howard%20Shore/Misty%20Mountains.pdf) | [Youtube](https://www.youtube.com/watch?v=Tn1Amt1A52Y)
+ <a name="movies"></a> ***Movies*** |
+ [Queen - Bohemian Raphsody](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Songs/Queen/Bohemian%20Rhapsody.pdf) | [Youtube](https://www.youtube.com/watch?v=ucot-V9WuxY)
+ [Queen - We Are The Champions](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Songs/Queen/We%20Are%20The%20Champions.pdf) | [Youtube](https://www.youtube.com/watch?v=rJf5xVZWxcQ)
+ [Adele - Skyfall](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Songs/Adele%20-%20Skyfall.pdf) | [Youtube](https://www.youtube.com/watch?v=uto95f62oWM)
+ [Alphaville - Forever Young](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Songs/Alphaville%20-%20Forever%20Young.pdf) | [Youtube](https://www.youtube.com/watch?v=4ZO0n4zgfPw)
+ [Boys Like Girls - The Great Escape](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Songs/Boys%20Like%20Girls%20-%20The%20Great%20Escape.pdf) | [Youtube](https://www.youtube.com/watch?v=fdZETb-ZVo4)
+ [Daniel Powter - Bad Day](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Songs/Daniel%20Powter%20-%20Bad%20Day.pdf) | [Youtube](https://www.youtube.com/watch?v=GryaXGFCh0g)
+ [Evanescence - My Immortal](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Songs/Evanescence%20-%20My%20Immortal.pdf) | [Youtube](https://www.youtube.com/watch?v=NRKHQOj1dGw)
+ [GOTYE - Somebody That I Used to Know](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Songs/GOTYE%20-%20Somebody%20That%20I%20Used%20to%20Know.pdf) | [Youtube](https://www.youtube.com/watch?v=X-Hog1jwVVs)
+ [Guang Liang - Tong Hua Fairytale](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Songs/Guang%20Liang%20-%20Tong%20Hua%20Fairytale.pdf) | [Youtube](https://www.youtube.com/watch?v=EEzZkI6kxu0)
+ [John Legend - All Of Me](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Songs/John%20Legend%20-%20All%20Of%20Me.pdf) | [Youtube](https://www.youtube.com/watch?v=8F3cu7JGVrQ)
+ [Josh Groban - You raise me up](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Songs/Josh%20Groban%20-%20You%20raise%20me%20up.pdf) | [Youtube](https://www.youtube.com/watch?v=uto95f62oWM)
+ [Journey - Open Arms](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Songs/Journey%20-%20Open%20Arms.pdf) | [Youtube](https://www.youtube.com/watch?v=HoYURsJY6fY)
+ [Leonard Cohen - Hallelujah](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Songs/Leonard%20Cohen%20-%20Hallelujah.pdf) | [Youtube](https://www.youtube.com/watch?v=TBMf3mcIGkw)
+ [One Republic - Apologize](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Songs/One%20Republic%20-%20Apologize.pdf) | [Youtube](https://www.youtube.com/watch?v=IAVIZe5lKow)
+ [Richard Clayderman - Besame Mucho](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Songs/Richard%20Clayderman%20-%20Besame%20Mucho.pdf) | [Youtube](https://www.youtube.com/watch?v=heU7kt5jx8I)
+ [Scarborough Fair](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Songs/Scarborough%20Fair.pdf) | [Youtube](https://www.youtube.com/watch?v=2OMFkTM5Mrs)
+ [Taeyang - Wedding Dress](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Songs/Taeyang%20-%20Wedding%20Dress.pdf) | [Youtube](https://www.youtube.com/watch?v=CmhOlhF2X6s)
+ [Train - Drops of Jupiter](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Songs/Train%20-%20Drops%20of%20Jupiter.pdf) | [Youtube](https://www.youtube.com/watch?v=7aXltwtw4w0)
 
 ### <a name="jazz"></a> Jazz
  Sheet | YouTube/Sample
