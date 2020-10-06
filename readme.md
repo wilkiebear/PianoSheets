@@ -6,7 +6,9 @@
   - [Disney](#disney)
   - [Games](#games)
   - [Movies](#movies)
+* [Vika Yermalova (Vkgoeswild)](#vkgoeswild)
 * [Jazz](#jazz)
+  - [Hans Piano](#hans-piano)
   - [Jonny May](#jonny-may)
   - [Rupert Austin](#rpa)
 
@@ -133,6 +135,29 @@
  [Taeyang - Wedding Dress](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Songs/Taeyang%20-%20Wedding%20Dress.pdf) | [Youtube](https://www.youtube.com/watch?v=CmhOlhF2X6s)
  [Train - Drops of Jupiter](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Songs/Train%20-%20Drops%20of%20Jupiter.pdf) | [Youtube](https://www.youtube.com/watch?v=7aXltwtw4w0)
 
+### <a name="vkgoeswild"></a> Vika Yermalova (Vkgoeswild)
+Sheet | YouTube/Sample
+ --- | --- 
+ [Scorpions - Wind Of Change](https://github.com/JKleinne/PianoSheets/blob/master/Vika%20Yermalova%20(Vkgoeswild)/Wind%20of%20Change.pdf) | [Youtube](https://www.youtube.com/watch?v=fKBvaeSboNk)
+ [Queen - Bohemian Raphsody.pdf](https://github.com/JKleinne/PianoSheets/blob/master/Vika%20Yermalova%20(Vkgoeswild)/Bohemian%20Raphsody.pdf) | [Youtube](https://www.youtube.com/watch?v=rptV6K7nqu0)
+ [Queen - Who Wants To Live Forever](https://github.com/JKleinne/PianoSheets/blob/master/Vika%20Yermalova%20(Vkgoeswild)/Who%20wants%20to%20live%20forever.pdf) | [Youtube](https://www.youtube.com/watch?v=InbDWywMbfM) 
+ [Queen - Somebody To Love](https://github.com/JKleinne/PianoSheets/blob/master/Vika%20Yermalova%20(Vkgoeswild)/Somebody%20to%20Love.pdf) | [Youtube](https://www.youtube.com/watch?v=XYrlrMtAB3M)
+ [Coldplay - Clocks](https://github.com/JKleinne/PianoSheets/blob/master/Vika%20Yermalova%20(Vkgoeswild)/Clocks.pdf) | [Youtube](https://www.youtube.com/watch?v=fOop0dE8hQI)
+ [Pink Floyd - Comfortably Numb](https://github.com/JKleinne/PianoSheets/blob/master/Vika%20Yermalova%20(Vkgoeswild)/Comfortably%20Numb.pdf) | [Youtube](https://www.youtube.com/watch?v=sq1TTCi9RVA)
+ [Pink Floyd - Echoes](https://github.com/JKleinne/PianoSheets/blob/master/Vika%20Yermalova%20(Vkgoeswild)/Echoes.pdf) | [Youtube](https://www.youtube.com/watch?v=FI0fyOaD94Y)
+ [Eagles - Hotel California](https://github.com/JKleinne/PianoSheets/blob/master/Vika%20Yermalova%20(Vkgoeswild)/Hotel%20California.pdf) | [Youtube](https://www.youtube.com/watch?v=Z3bxLL2eMYc)
+ [Phil Collins - In The Air Tonight](https://github.com/JKleinne/PianoSheets/blob/master/Vika%20Yermalova%20(Vkgoeswild)/In%20The%20Air%20Tonight.pdf) | [Youtube](https://www.youtube.com/watch?v=t_3S0mcNe08)
+ [Guns N' Roses - Knocking on Heaven's Door](https://github.com/JKleinne/PianoSheets/blob/master/Vika%20Yermalova%20(Vkgoeswild)/Knocking%20on%20Heaven's%20Door.pdf) | [Youtube](https://www.youtube.com/watch?v=GiZDgdE8SUk)
+ [Guns N' Roses - November Rain](https://github.com/JKleinne/PianoSheets/blob/master/Vika%20Yermalova%20(Vkgoeswild)/November%20Rain.pdf) | [Youtube](https://www.youtube.com/watch?v=FhbeNEtkgDs) 
+ [Guns N' Roses - Sweet Child o' Mine](https://github.com/JKleinne/PianoSheets/blob/master/Vika%20Yermalova%20(Vkgoeswild)/Sweet%20Child.pdf) | [Youtube](https://www.youtube.com/watch?v=ff8UwvPK0G4)
+ [Guns N' Roses - This I love](https://github.com/JKleinne/PianoSheets/blob/master/Vika%20Yermalova%20(Vkgoeswild)/This%20I%20Love.pdf) | [Youtube](https://www.youtube.com/watch?v=i6y0sK2vzd0)
+ [Metallica - Nothing Else Matters](https://github.com/JKleinne/PianoSheets/blob/master/Vika%20Yermalova%20(Vkgoeswild)/Nothing%20Matters.pdf) | [Youtube](https://www.youtube.com/watch?v=Six5zn4oXGE)
+ [Metallica - One](https://github.com/JKleinne/PianoSheets/blob/master/Vika%20Yermalova%20(Vkgoeswild)/Metallica%20-%20One.pdf) | [Youtube](https://www.youtube.com/watch?v=4_3whe5_G2g)
+ [Extreme - More Than Words](https://github.com/JKleinne/PianoSheets/blob/master/Vika%20Yermalova%20(Vkgoeswild)/More%20Than%20Words.pdf) | [Youtube](https://www.youtube.com/watch?v=R5KBk76b9HE)
+ [Pantera - Cemetary Gates](https://github.com/JKleinne/PianoSheets/blob/master/Vika%20Yermalova%20(Vkgoeswild)/Pantera%20Cemetary%20Gates.pdf) | [Youtube](https://www.youtube.com/watch?v=Pl5KnzgDyDY)
+ [The Pixies - Where Is My Mind](https://github.com/JKleinne/PianoSheets/blob/master/Vika%20Yermalova%20(Vkgoeswild)/Pixies%20where%20is%20my%20mind.pdf) | [Youtube](https://www.youtube.com/watch?v=KFiScXBMR7E)
+ [Led Zeppelin - Stairway To Heaven](https://github.com/JKleinne/PianoSheets/blob/master/Vika%20Yermalova%20(Vkgoeswild)/Stairway%20to%20heaven.pdf) | [Youtube](https://www.youtube.com/watch?v=dwWmVLKdHPE)
+
 ### <a name="jazz"></a> Jazz
  Sheet | YouTube/Sample
  --- | --- 
@@ -145,6 +170,10 @@
  [Happy Birthday ***Jazz***](https://github.com/JKleinne/PianoSheets/blob/master/Jazz/Jonny%20May/Jazz%20Happy%20Birthday.pdf) | [Youtube](https://www.youtube.com/watch?v=4sZmPHJPvZE)
  [Cruella De Vil](https://github.com/JKleinne/PianoSheets/blob/master/Jazz/Jonny%20May/Cruella%20De%20Vil.pdf) | [Youtube](https://www.youtube.com/watch?v=IaMacRAJwTw)
  [Avicii - Wake Me Up](https://github.com/JKleinne/PianoSheets/blob/master/Jazz/Jonny%20May/Avicii%20-%20Wake%20Me%20Up.pdf) | [Youtube](https://www.youtube.com/watch?v=Bv0NDgCzl6U)
+ <a name="hans-piano"></a> ***Hans Piano*** |
+  [Blue Bossa](https://github.com/JKleinne/PianoSheets/blob/master/Jazz/Hans%20piano/Blue%20Bossa.pdf) | [Youtube](https://www.youtube.com/watch?v=nU9W38VjZ4I)
+  [Bee Gees - How Deep Is Your Love](https://github.com/JKleinne/PianoSheets/blob/master/Jazz/Hans%20piano/How%20Deep%20Is%20Your%20Love.pdf) | [Youtube](https://www.youtube.com/watch?v=65Xza4MayvM)
+  [Moon River](https://github.com/JKleinne/PianoSheets/blob/master/Jazz/Hans%20piano/Moon%20River.pdf) | [Youtube](https://www.youtube.com/watch?v=AXPEmv6cUrk) 
  <a name="rpa"></a> ***Rupert Austin*** |
  [Misty](https://github.com/JKleinne/PianoSheets/blob/master/Jazz/RPA/RPA_Misty.pdf) | [Youtube](https://www.youtube.com/watch?v=vhRwSAbA-CQ)
  [Autumn Leaves](https://github.com/JKleinne/PianoSheets/blob/master/Jazz/RPA/RPA_Autumn%20Leaves.pdf) | [Youtube](https://www.youtube.com/watch?v=HQ_IUUtDJW8)
