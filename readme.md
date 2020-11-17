@@ -173,6 +173,7 @@ Sheet | YouTube/Sample
  <a name="hans-piano"></a> ***Hans Piano*** |
   [Blue Bossa](https://github.com/JKleinne/PianoSheets/blob/master/Jazz/Hans%20piano/Blue%20Bossa.pdf) | [Youtube](https://www.youtube.com/watch?v=nU9W38VjZ4I)
   [Bee Gees - How Deep Is Your Love](https://github.com/JKleinne/PianoSheets/blob/master/Jazz/Hans%20piano/How%20Deep%20Is%20Your%20Love.pdf) | [Youtube](https://www.youtube.com/watch?v=65Xza4MayvM)
+  [All of Me](https://github.com/JKleinne/PianoSheets/blob/master/Jazz/Hans%20piano/Moon%20River.pdf) | [Youtube](https://www.youtube.com/watch?v=-w51QfwLaho) 
   [Can't Take My Eyes Off You](https://github.com/JKleinne/PianoSheets/blob/master/Jazz/Hans%20piano/Can't%20Take%20My%20Eyes%20Off%20You.pdf) | [Youtube](https://www.youtube.com/watch?v=1-EZUMCSwUc)   
   [Moon River](https://github.com/JKleinne/PianoSheets/blob/master/Jazz/Hans%20piano/Moon%20River.pdf) | [Youtube](https://www.youtube.com/watch?v=AXPEmv6cUrk) 
  <a name="rpa"></a> ***Rupert Austin*** |
