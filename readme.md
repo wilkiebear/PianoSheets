@@ -176,6 +176,10 @@ Sheet | YouTube/Sample
   [All of Me](https://github.com/JKleinne/PianoSheets/blob/master/Jazz/Hans%20piano/All%20Of%20Me.pdf) | [Youtube](https://www.youtube.com/watch?v=-w51QfwLaho) 
   [Can't Take My Eyes Off You](https://github.com/JKleinne/PianoSheets/blob/master/Jazz/Hans%20piano/Can't%20Take%20My%20Eyes%20Off%20You.pdf) | [Youtube](https://www.youtube.com/watch?v=1-EZUMCSwUc)   
   [Moon River](https://github.com/JKleinne/PianoSheets/blob/master/Jazz/Hans%20piano/Moon%20River.pdf) | [Youtube](https://www.youtube.com/watch?v=AXPEmv6cUrk) 
+  [Misty](https://github.com/JKleinne/PianoSheets/blob/master/Jazz/Hans%20piano/Misty.pdf) | [Youtube](https://www.youtube.com/watch?v=cOKWJSfcWnE)
+  [The Way You Look Tonight](https://github.com/JKleinne/PianoSheets/blob/master/Jazz/Hans%20piano/The%20Way%20You%20Look%20Tonight.pdf) | [Youtube](https://www.youtube.com/watch?v=gtnXveHiKyo)
+  [Unforgettable](https://github.com/JKleinne/PianoSheets/blob/master/Jazz/Hans%20piano/Unforgettable.pdf) | [Youtube](https://www.youtube.com/watch?v=Dkw8K2s8s3k)
+
  <a name="rpa"></a> ***Rupert Austin*** |
  [Misty](https://github.com/JKleinne/PianoSheets/blob/master/Jazz/RPA/RPA_Misty.pdf) | [Youtube](https://www.youtube.com/watch?v=vhRwSAbA-CQ)
  [Autumn Leaves](https://github.com/JKleinne/PianoSheets/blob/master/Jazz/RPA/RPA_Autumn%20Leaves.pdf) | [Youtube](https://www.youtube.com/watch?v=HQ_IUUtDJW8)
