@@ -179,6 +179,7 @@ Sheet | YouTube/Sample
   [Misty](https://github.com/JKleinne/PianoSheets/blob/master/Jazz/Hans%20piano/Misty.pdf) | [Youtube](https://www.youtube.com/watch?v=cOKWJSfcWnE)
   [The Way You Look Tonight](https://github.com/JKleinne/PianoSheets/blob/master/Jazz/Hans%20piano/The%20Way%20You%20Look%20Tonight.pdf) | [Youtube](https://www.youtube.com/watch?v=gtnXveHiKyo)
   [Unforgettable](https://github.com/JKleinne/PianoSheets/blob/master/Jazz/Hans%20piano/Unforgettable.pdf) | [Youtube](https://www.youtube.com/watch?v=Dkw8K2s8s3k)
+  [Christmas Medley](https://github.com/JKleinne/PianoSheets/blob/master/Jazz/Hans%20piano/Christmas%20Medleys.pdf) | [Youtube](https://www.youtube.com/watch?v=Fd6DClQoL2k)
 
  <a name="rpa"></a> ***Rupert Austin*** |
  [Misty](https://github.com/JKleinne/PianoSheets/blob/master/Jazz/RPA/RPA_Misty.pdf) | [Youtube](https://www.youtube.com/watch?v=vhRwSAbA-CQ)
