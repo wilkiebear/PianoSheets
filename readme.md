@@ -1,4 +1,5 @@
 ###### All credits belong to their respective artists. Will be updating this repo regularly as I learn/acquire new sheet music, enjoy :)
+###### P.S. This readme could be outdated
  **Table of Contents**
 * [Kyle Landry](#kyle-landry)
   - [Anime](#anime)
