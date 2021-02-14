@@ -8,6 +8,7 @@
   - [Games](#games)
   - [Movies](#movies)
 * [Vika Yermalova (Vkgoeswild)](#vkgoeswild)
+* [Zohar002](#zohar)
 * [Jazz](#jazz)
   - [Hans Piano](#hans-piano)
   - [Jonny May](#jonny-may)
@@ -158,6 +159,31 @@ Sheet | YouTube/Sample
  [Pantera - Cemetary Gates](https://github.com/JKleinne/PianoSheets/blob/master/Vika%20Yermalova%20(Vkgoeswild)/Pantera%20Cemetary%20Gates.pdf) | [Youtube](https://www.youtube.com/watch?v=Pl5KnzgDyDY)
  [The Pixies - Where Is My Mind](https://github.com/JKleinne/PianoSheets/blob/master/Vika%20Yermalova%20(Vkgoeswild)/Pixies%20where%20is%20my%20mind.pdf) | [Youtube](https://www.youtube.com/watch?v=KFiScXBMR7E)
  [Led Zeppelin - Stairway To Heaven](https://github.com/JKleinne/PianoSheets/blob/master/Vika%20Yermalova%20(Vkgoeswild)/Stairway%20to%20heaven.pdf) | [Youtube](https://www.youtube.com/watch?v=dwWmVLKdHPE)
+
+### <a name="zohar"></a> Zohar
+ Sheet | YouTube/Sample
+ --- | --- 
+ [Chrono Trigger - Secret of the Forest (1)](https://github.com/JKleinne/PianoSheets/blob/master/Zohar002/Chrono%20Trigger%20-%20Secret%20of%20the%20Forest.pdf) | [Youtube](https://www.youtube.com/watch?v=pLx6N98Y6RE)
+ [Chrono Trigger - Secret of the Forest (2)](https://github.com/JKleinne/PianoSheets/blob/master/Zohar002/Chrono%20Trigger%20-%20Secret%20of%20the%20Forest%20(2).pdf) | [Youtube](https://www.youtube.com/watch?v=pLx6N98Y6RE) 
+ [CEG](https://github.com/JKleinne/PianoSheets/blob/master/Zohar002/CEG.pdf) | [Youtube](https://www.youtube.com/watch?v=4ckc2BDOYvc)
+ [Chrono Cross - Dimension Breach](https://github.com/JKleinne/PianoSheets/blob/master/Zohar002/Chrono%20Cross%20-%20Dimension%20Breach.pdf) | [Youtube](https://www.youtube.com/watch?v=kQ0ZZUXgswQ)
+ [Chrono Trigger - Corridors of Time (1)](https://github.com/JKleinne/PianoSheets/blob/master/Zohar002/Chrono%20Trigger%20-%20Corridors%20of%20Time.pdf) | [Youtube](https://www.youtube.com/watch?v=kQ0ZZUXgswQ)
+ [Chrono Trigger - Corridors of Time (2)](https://github.com/JKleinne/PianoSheets/blob/master/Zohar002/Chrono%20Trigger%20-%20Corridors%20of%20Time%20(2).pdf) | [Youtube](https://www.youtube.com/watch?v=kQ0ZZUXgswQ)
+ [Chrono Trigger - Frog's Theme](https://github.com/JKleinne/PianoSheets/blob/master/Zohar002/Chrono%20Trigger%20-%20Frog's%20Theme.pdf) | [Youtube](https://www.youtube.com/watch?v=GjHFoptKNZU)
+ [Chrono Trigger - Peaceful Days (1)](https://github.com/JKleinne/PianoSheets/blob/master/Zohar002/Chrono%20Trigger%20-%20Peaceful%20Days.pdf) | [Youtube](https://www.youtube.com/watch?v=9Ua3H3ylnv8)
+ [Chrono Trigger - Peaceful Days (2)](https://github.com/JKleinne/PianoSheets/blob/master/Zohar002/Chrono%20Trigger%20-%20Peaceful%20Days%20(2).pdf) | [Youtube](https://www.youtube.com/watch?v=9Ua3H3ylnv8)
+ [Chrono Trigger - Piano Medley](https://github.com/JKleinne/PianoSheets/blob/master/Zohar002/Chrono%20Trigger%20-%20Piano%20Medley.pdf) | 
+ [Chrono Trigger - Schala's Theme](https://github.com/JKleinne/PianoSheets/blob/master/Zohar002/Chrono%20Trigger%20-%20Schala's%20Theme.pdf) | [Youtube](https://www.youtube.com/watch?v=FfIG0Tw0dnw)
+ [Chrono Trigger - Singing Mountain](https://github.com/JKleinne/PianoSheets/blob/master/Zohar002/Chrono%20Trigger%20-%20Singing%20Mountain.pdf) | [Youtube](https://www.youtube.com/watch?v=j7B5wO5_omI)
+ [Chrono Trigger - To Far Away Times](https://github.com/JKleinne/PianoSheets/blob/master/Zohar002/Chrono%20Trigger%20-%20To%20Far%20Away%20Times.pdf) | [Youtube](https://www.youtube.com/watch?v=x_4ndNoraV4)
+ [Chrono Trigger - To Good Friends](https://github.com/JKleinne/PianoSheets/blob/master/Zohar002/Chrono%20Trigger%20-%20To%20Good%20Friends.pdf) | [Youtube](https://www.youtube.com/watch?v=SUk9ybSnMMo)
+ [Chrono Trigger - Wind Scene](https://github.com/JKleinne/PianoSheets/blob/master/Zohar002/Chrono%20Trigger%20-%20Wind%20Scene.pdf) | [Youtube](https://www.youtube.com/watch?v=PY-lLrclanw)
+ [Chrono Trigger - Wind Scene Paraphrase](https://github.com/JKleinne/PianoSheets/blob/master/Zohar002/Chrono%20Trigger%20-%20Wind%20Scene%20Paraphrase.pdf) | [Youtube](https://www.youtube.com/watch?v=_qJzDDTUk7E)
+ [Chrono Trigger - World Revolution](https://github.com/JKleinne/PianoSheets/blob/master/Zohar002/Chrono%20Trigger%20-%20World%20Revolution.pdf) | [Youtube](https://www.youtube.com/watch?v=i25QnaxZSIo)
+ [Final Fantasy VI - Aria di Mezzo Carattere](https://github.com/JKleinne/PianoSheets/blob/master/Zohar002/Final%20Fantasy%20VI%20-%20Aria%20di%20Mezzo%20Carattere.pdf) | [Youtube](https://www.youtube.com/watch?v=lKOB09qIqy4://www.youtube.com/watch?v=j7B5wO5_omI)
+ [Saga Frontier - The Opening of a Journey](https://github.com/JKleinne/PianoSheets/blob/master/Zohar002/Saga%20Frontier%20-%20Opening.pdf) | [Youtube](https://www.youtube.com/watch?v=sEnc3JIzwSk)
+ [Saga Frontier - Aserus Ending Theme](https://github.com/JKleinne/PianoSheets/blob/master/Zohar002/Saga%20Frontier%20-%20Aserus%20Ending%20Theme.pdf) | [Youtube](https://www.youtube.com/watch?v=7io75DIjEVs)
+ [Xenogears - Shevat, The Wind is Calling](https://github.com/JKleinne/PianoSheets/blob/master/Zohar002/Xenogears%20-%20Shevat%2C%20The%20Wind%20is%20Calling.pdf) | [Youtube](https://www.youtube.com/watch?v=CUKBhBqlXzU)
 
 ### <a name="jazz"></a> Jazz
  Sheet | YouTube/Sample
