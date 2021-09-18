@@ -67,6 +67,7 @@
 │   │   ├── Christmas Medleys.pdf
 │   │   ├── Fly Me To The Moon.pdf
 │   │   ├── How Deep Is Your Love.pdf
+│   │   ├── Imagine.pdf
 │   │   ├── Just Two Of Us.pdf
 │   │   ├── Libertango.pdf
 │   │   ├── Love Will Keep Us Together.pdf
@@ -165,8 +166,10 @@
 │   │   │   ├── 1000 Words.pdf
 │   │   │   ├── Aeriths Theme.pdf
 │   │   │   ├── Eternity (Memory of Lightwaves).pdf
+│   │   │   ├── Final Fantasy IV - Theme of Love.pdf
 │   │   │   ├── Terras Theme.pdf
 │   │   │   └── To Zanarkand.pdf
+│   │   ├── Guild Wars 2 - Fear Not This Night.pdf
 │   │   ├── Halo 3 - Never Forget.pdf
 │   │   ├── Kingdom Hearts
 │   │   │   ├── Dearly Beloved (2008).pdf
@@ -178,6 +181,7 @@
 │   │   │   ├── Hikari.pdf
 │   │   │   ├── Kairi.pdf
 │   │   │   └── Passion.pdf
+│   │   ├── League of Legends - Legends Never Die.pdf
 │   │   ├── League of Legends - Summoners Call.pdf
 │   │   ├── Mario
 │   │   │   ├── Dire Dire Docks.pdf
@@ -190,6 +194,9 @@
 │   │   │   ├── Pokemon Medley.pdf
 │   │   │   └── Pokemon Ruby And Sapphire Ending Theme.pdf
 │   │   ├── Skyrim - Main Theme.pdf
+│   │   ├── Super Mario Galaxy - Rosalina's Observatory.pdf
+│   │   ├── Super Mario World - Castle Theme.pdf
+│   │   ├── Undertale - Spider Dance.pdf
 │   │   └── Zelda
 │   │       ├── Gerudo Valley (2013).pdf
 │   │       ├── Gerudo Valley.pdf
@@ -200,6 +207,7 @@
 │   │   ├── Amelie - Comptine d'un autre été.pdf
 │   │   ├── Anastasia - Once Upon A December.pdf
 │   │   ├── Braveheart Theme.pdf
+│   │   ├── Evil Morty Theme.pdf
 │   │   ├── Hans Zimmer
 │   │   │   ├── Inception - Time.pdf
 │   │   │   ├── Interstellar - FirstStep.pdf
@@ -229,32 +237,38 @@
 │   │   │   └── Waltz of Chihiro.pdf
 │   │   ├── La La Land - Mia & Sebastians Theme (WIP) (Kyle Landrys Arr.).pdf
 │   │   ├── Les Miserables - I Dreamed a Dream.pdf
+│   │   ├── Pirates of The Caribbean Medley.pdf
+│   │   ├── Pirates of The Caribbean - The Black Pearl.pdf
 │   │   ├── Time Travel Theme.pdf
+│   │   ├── Titanic Medley.pdf
 │   │   └── Transformers - Arrival to Earth.pdf
 │   ├── River flows in you.pdf
 │   ├── Sky - Forever.pdf
-│   └── Songs
-│       ├── Adele - Skyfall.pdf
-│       ├── Aerosmith - I Don't Want To Miss A Thing.pdf
-│       ├── Alphaville - Forever Young.pdf
-│       ├── Beatles - Across the Universe.pdf
-│       ├── Boys Like Girls - The Great Escape.pdf
-│       ├── Daniel Powter - Bad Day.pdf
-│       ├── Evanescence - My Immortal.pdf
-│       ├── GOTYE - Somebody That I Used to Know.pdf
-│       ├── Guang Liang - Tong Hua Fairytale.pdf
-│       ├── John Legend - All Of Me.pdf
-│       ├── Josh Groban - You raise me up.pdf
-│       ├── Journey - Open Arms.pdf
-│       ├── Leonard Cohen - Hallelujah.pdf
-│       ├── One Republic - Apologize.pdf
-│       ├── Queen
-│       │   ├── Bohemian Rhapsody.pdf
-│       │   └── We Are The Champions.pdf
-│       ├── Richard Clayderman - Besame Mucho.pdf
-│       ├── Scarborough Fair.pdf
-│       ├── Taeyang - Wedding Dress.pdf
-│       └── Train - Drops of Jupiter.pdf
+│   ├── Songs
+│   │   ├── Adele - Skyfall.pdf
+│   │   ├── Aerosmith - I Don't Wanna Miss A Thing.pdf
+│   │   ├── Aerosmith - I Don't Want To Miss A Thing.pdf
+│   │   ├── Alphaville - Forever Young.pdf
+│   │   ├── Beatles - Across the Universe.pdf
+│   │   ├── Boys Like Girls - The Great Escape.pdf
+│   │   ├── Daniel Powter - Bad Day.pdf
+│   │   ├── Evanescence - My Immortal.pdf
+│   │   ├── GOTYE - Somebody That I Used to Know.pdf
+│   │   ├── Guang Liang - Tong Hua Fairytale.pdf
+│   │   ├── Imagine Dragons - Warriors.pdf
+│   │   ├── John Legend - All Of Me.pdf
+│   │   ├── Josh Groban - You raise me up.pdf
+│   │   ├── Journey - Open Arms.pdf
+│   │   ├── Leonard Cohen - Hallelujah.pdf
+│   │   ├── One Republic - Apologize.pdf
+│   │   ├── Queen
+│   │   │   ├── Bohemian Rhapsody.pdf
+│   │   │   └── We Are The Champions.pdf
+│   │   ├── Richard Clayderman - Besame Mucho.pdf
+│   │   ├── Scarborough Fair.pdf
+│   │   ├── Taeyang - Wedding Dress.pdf
+│   │   └── Train - Drops of Jupiter.pdf
+│   └── Swan Lake.pdf
 ├── Mercuziopianist
 │   ├── 17 Moments of Spring - Mgnovenia (Mikael Tariverdiev).pdf
 │   ├── 3.10 to Yuma (Marco Beltrami).pdf
@@ -820,6 +834,7 @@
 │   ├── Hal Leonard Jazz Library.pdf
 │   ├── Howl's Moving Castle ( arr. by PaRaD1SE ).pdf
 │   ├── Kirby Super Star - Marx Battle (Fastain's arrangement, as played by Zohar).pdf
+│   ├── Remake our Life! (OST) - Don't Give Up
 │   ├── Sailor Moon - Moonlight Densetsu.pdf
 │   ├── Steins;Gate 0 - Gate of Steiner.pdf
 │   ├── Steins;Gate - Gate of Steiner.pdf
@@ -965,4 +980,4 @@
     ├── Saga Frontier - Opening.pdf
     └── Xenogears - Shevat, The Wind is Calling.pdf
 
-39 directories, 926 files
+39 directories, 941 files
